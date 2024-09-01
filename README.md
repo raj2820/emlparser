@@ -5,4 +5,4 @@ This library provides a robust and flexible solution for parsing EML (email) mes
 ## Installation
 
 ```bash
-go get github.com/raj2820/emlparser
+go get github.com/raj2820/go-eml-parser
