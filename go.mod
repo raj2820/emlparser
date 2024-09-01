@@ -1,8 +1,6 @@
-module rajshinde/emlParser
+module github.com/raj2820/emlparser
 
 go 1.23.0
-
-require github.com/miekg/dns v1.1.62
 
 require (
 	golang.org/x/mod v0.18.0 // indirect
